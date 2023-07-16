@@ -9,6 +9,14 @@
 
 <body>
     <h1>HELLOW WORLD</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim minima rerum vero odit consectetur corrupti!
+        Provident mollitia assumenda, sint iusto ipsam explicabo ducimus, dolores accusamus nesciunt corporis officia.
+        Repellendus, provident.</p>
+    <ul>
+        <li>
+            tambah item
+        </li>
+    </ul>
 </body>
 
 </html>
